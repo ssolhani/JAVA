@@ -14,8 +14,8 @@ public class Datatype{
 		//System.out.println(1111.length());
 		
 		
-        System.out.println("Hello World"); //String ¹®ÀÚ¿­
-        System.out.println('H'); //Char ¹®ÀÚ
+        System.out.println("Hello World"); //String Â¹Â®Ã€ÃšÂ¿Â­
+        System.out.println('H'); //Char Â¹Â®Ã€Ãš
         System.out.println("H");
 	} 
 }
